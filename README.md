@@ -1,24 +1,24 @@
 # CV.md
 * Nathália Mendes Nascimento
 * General description: brazilian, single, 24 years old 
+* Cellphone: +55 61 99645 1899 / +31 6 12297868 
 * Phone: +55-613347-2100
-* Cellphone: +55 61 99645 1899 / +31 6 12297868
 * E-mail: nathaliamnascimento@gmail.com / n.mendesnascimento@tilburguniversity.edu
 
 [Linkedin profile](https://www.linkedin.com/in/nath%C3%A1lia-mendes-nascimento-21084ab7/)
 
 * __EDUCATION__
 
-  * BS Economics by University of Brasilia (conclusion date: dec/2014) 
+  * BS Economics by University of Brasilia (conclusion date: 12/2014) 
   * MSc Economics (in course) – Tilburg University 2017/2018
 
 * __WORK EXPERIENCE__
 
-  * __[sept/2013 – actual] – [FALCONI Consultants for Results](https://www.falconi.com/en/) (Management Consulting company)__
-    Positions held: intern, management analyst and consultant.
+  * __[2014 – 2017] – [FALCONI Consultants for Results](https://www.falconi.com/en/) (Management Consulting company)__
+    Positions held: intern (2014/2015), management analyst/consultant (2015/2017)
     Main activities: management consulting, revenue management consulting, costs management, process restructuring, performance controlling.
 
-  * __[jan/2013 – sept/2013] – [Kapital Projects and Financial Consulting](http://www.kapitalprojetos.com.br/) (Financial Consulting company)__
+  * __[2013] – [Kapital Projects and Financial Consulting](http://www.kapitalprojetos.com.br/) (Financial Consulting company)__
     Positions held: intern. 
     Main activities: elaborating economic feasibility projects; support on Valuation projects; market studies for several areas.
 
