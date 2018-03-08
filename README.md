@@ -9,13 +9,13 @@
 
 * __EDUCATION__
 
-  * BS Economics by University of Brasilia (conclusion date: 12/2014) 
   * MSc Economics (in course) – Tilburg University 2017/2018
-
+  * BS Economics by University of Brasilia (conclusion date: 12/2014) 
+  
 * __WORK EXPERIENCE__
 
-  * __[2014 – 2017] – [FALCONI Consultants for Results](https://www.falconi.com/en/) (Management Consulting company)__
-    Positions held: intern (2014/2015), management analyst/consultant (2015/2017)
+  * __[set/2013 – jul/2017] – [FALCONI Consultants for Results](https://www.falconi.com/en/) (Management Consulting company)__
+    Positions held: intern, management analyst, consultant
     Main activities: management consulting, revenue management consulting, costs management, process restructuring, performance controlling.
 
   * __[2013] – [Kapital Projects and Financial Consulting](http://www.kapitalprojetos.com.br/) (Financial Consulting company)__
@@ -39,4 +39,4 @@
   * Leader Consulting at the Junior Enterprise Company during graduate
   * Financial Director of the Junior Enterprise Federation of Brasilia during one year
   * Volunteer work at the NGO [Sonhar Acordado](http://sonharacordado.org.br/) during three years, coordinator during six months
-  * Director of the Economics Academic Center: 2014
+  * Director of the Economics Academic Center of students (at university of Brasilia): 2014
