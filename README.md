@@ -10,7 +10,7 @@
 * __EDUCATION__
 
   * MSc Economics (in course) – Tilburg University 2017/2018
-  * BS Economics by University of Brasilia (conclusion date: 12/2014) 
+  * BSc Economics by University of Brasilia (conclusion date: 12/2014) 
   
 * __WORK EXPERIENCE__
 
