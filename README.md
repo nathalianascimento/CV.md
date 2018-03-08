@@ -1,6 +1,6 @@
 # CV.md
 * Nathália Mendes Nascimento
-* General description: brazilian, single, 24 years old 
+* General description: economist, brazilian, 24 years old 
 * Cellphone: +55 61 99645 1899 / +31 6 12297868 
 * Phone: +55-613347-2100
 * E-mail: nathaliamnascimento@gmail.com / n.mendesnascimento@tilburguniversity.edu
